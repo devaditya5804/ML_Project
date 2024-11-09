@@ -1,5 +1,5 @@
 # ML_Project
- This was a Project that we did  for the subject Machune Learning  under the guidance of Dr. Anitha
+ This was a Project that we did  for the subject Machine Learning  under the guidance of Dr. Anitha
  Here we took a labelled dataset of the various types animals and tried various relevant  models that we learnt during our course and measured the accuracy of prediction of various models and compared them.
 
  Here is the collab link of the project in case there is some error in previewing:
